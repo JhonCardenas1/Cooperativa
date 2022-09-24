@@ -1,0 +1,31 @@
+table{
+    background-color: aqua;
+    margin: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 40%;
+    height: 180px;
+}
+
+tr{
+    background-color: rgb(97, 100, 252);
+    height: 60px;
+
+}
+
+
+td{
+    background-color: aliceblue;
+    color: rgb(1, 71, 1);
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+th{
+    color:rgb(4, 61, 4) ;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
